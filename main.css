@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    background-color:#404040;
+    color: #D8D8D8
+}
+
+.brand {
+
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
